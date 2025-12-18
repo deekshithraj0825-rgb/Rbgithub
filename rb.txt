@@ -1,0 +1,2 @@
+This is the second class of GIT
+hello world
